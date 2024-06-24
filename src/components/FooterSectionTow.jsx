@@ -42,28 +42,24 @@ const FooterSectionTow = () => {
                   Home
                 </li>
                 <li className="flex gap-4 items-center">
-                  {" "}
                   <span>
                     <FaRegCircleDot className="text-[#FF9301]" />
                   </span>
                   About Us
                 </li>
                 <li className="flex gap-4 items-center">
-                  {" "}
                   <span>
                     <FaRegCircleDot className="text-[#FF9301]" />
                   </span>
                   Services
                 </li>
                 <li className="flex gap-4 items-center">
-                  {" "}
                   <span>
                     <FaRegCircleDot className="text-[#FF9301]" />
                   </span>
                   Blogs
                 </li>
                 <li className="flex gap-4 items-center">
-                  {" "}
                   <span>
                     <FaRegCircleDot className="text-[#FF9301]" />
                   </span>
@@ -81,28 +77,24 @@ const FooterSectionTow = () => {
                   UI/UX Design
                 </li>
                 <li className="flex gap-4 items-center">
-                  {" "}
                   <span>
                     <FaRegCircleDot className="text-[#FF9301]" />
                   </span>
-                  Graphics Design{" "}
+                  Graphics Design
                 </li>
                 <li className="flex gap-4 items-center">
-                  {" "}
                   <span>
                     <FaRegCircleDot className="text-[#FF9301]" />
                   </span>
                   Web Developer
                 </li>
                 <li className="flex gap-4 items-center">
-                  {" "}
                   <span>
                     <FaRegCircleDot className="text-[#FF9301]" />
                   </span>
                   Mobile App
                 </li>
                 <li className="flex gap-4 items-center">
-                  {" "}
                   <span>
                     <FaRegCircleDot className="text-[#FF9301]" />
                   </span>
@@ -120,14 +112,12 @@ const FooterSectionTow = () => {
                   +99 0123 456 0470
                 </li>
                 <li className="flex gap-4 items-center">
-                  {" "}
                   <span>
                     <IoIosMail className="text-[#FF9301]" />
                   </span>
-                  createuiuxlab@gmail.com{" "}
+                  createuiuxlab@gmail.com
                 </li>
                 <li className="flex gap-4 items-center">
-                  {" "}
                   <span>
                     <FaLocationDot className="text-[#FF9301]" />
                   </span>
