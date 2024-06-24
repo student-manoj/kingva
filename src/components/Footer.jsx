@@ -1,4 +1,4 @@
-import FooterSectionone from "./FooterSectionone";
+import FooterSectionone from "./FooterSectionOne";
 import FooterSectionTow from "./FooterSectionTow";
 
 const Footer = () => {
