@@ -17,8 +17,8 @@ const TeamSection = () => {
             />
           </div>
           <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-6 py-16">
-            {TeamsData.slice(0, 4).map((val) => (
-              <TeamCard key={val.id} {...val} />
+            {TeamsData.slice(0, 4).map((value) => (
+              <TeamCard key={value.id} {...value} />
             ))}
           </div>
         </div>

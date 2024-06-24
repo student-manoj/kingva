@@ -1,7 +1,7 @@
-import CustmerReviewImg from "../../public/CustmerReviewImg.png";
-import CustmerReviewImg1 from "../../public/CustmerReviewImg1.png";
-import CustmerReviewImg2 from "../../public/CustmerReviewImg2.png";
-import CustmerReviewImg3 from "../../public/CustmerReviewImg3.png";
+import CustmerReviewImg from "../../public/ReviewImg.png";
+import CustmerReviewImg1 from "../../public/ReviewImg1.png";
+import CustmerReviewImg2 from "../../public/ReviewImg2.png";
+import CustmerReviewImg3 from "../../public/ReviewImg3.png";
 
 export const CustmerReviewData = [
   {
