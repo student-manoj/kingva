@@ -7,13 +7,13 @@ const TeamSection = () => {
     <>
       <div className="bg-[#FAFAFA]">
         <div className="container mx-auto px-4">
-          <div className="">
+          <div>
             <Heading
               title="Our Team"
               titleName="To Our Protifo Teammember"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Curabitur fermentum sem vitae dolor porta, quis auctor velit
-              varius."
+              description="Lorem ipsum dolor sit amet consectetur adipiscing elit
+              Curabitur fermentum sem vitae dolor porta quis auctor velit
+              varius"
             />
           </div>
           <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-6 py-16">

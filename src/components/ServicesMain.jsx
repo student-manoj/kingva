@@ -2,7 +2,6 @@ import HeroSection from "./HeroSection";
 import PlansSection from "./PlansSection";
 import ServicesSectionTow from "./ServicesSectionTow";
 import TeamSection from "./Teamsection";
-import Teamsection from "./Teamsection";
 
 const ServicesMain = () => {
   return (
